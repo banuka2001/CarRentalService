@@ -16,7 +16,7 @@ Technologies Used
 
 How to Run
 1. Clone this repository:
-   	git clone https://github.com/banuka2001/Car-Rental-Service.git
+   	git clone https://github.com/banuka2001/CarRentalService.git
 
 
 
