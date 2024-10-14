@@ -12,7 +12,7 @@ Features
 Technologies Used
 -  Java
 - JDBC API
-- **MySQL**
+- MySQL
 
 How to Run
 1. Clone this repository:
